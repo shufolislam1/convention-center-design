@@ -9,3 +9,21 @@ font-family: 'Poppins', sans-serif;
     width: 100%;
     height: auto;
   }
+.carosel-height {
+    height: 520px;
+}
+.card-header-color {
+    color: #231D4F;
+}
+.special-card {
+    background-color: #3F87F5;
+    border-radius: 26px;
+}
+.special-card-button {
+    background-color: #ffffff;
+    padding: 14px 62px;
+}
+.card-button {
+    background-color: #FEF5FA;
+    padding: 14px 62px;
+}
