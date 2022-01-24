@@ -27,3 +27,6 @@ font-family: 'Poppins', sans-serif;
     background-color: #FEF5FA;
     padding: 14px 62px;
 }
+.link-style {
+    text-decoration: none;
+}
